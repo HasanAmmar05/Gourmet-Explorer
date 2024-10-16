@@ -1,4 +1,4 @@
-# GourmetExplorer
+# Gourmet Explorer
 
 GourmetExplorer is a dynamic recipe exploration web application that allows users to search for delicious recipes, view details, and save their favorite recipes for later. It features a smooth user experience with recipe filtering, tags, and dark mode support.
 
