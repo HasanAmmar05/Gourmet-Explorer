@@ -265,7 +265,7 @@ export default function GourmetExplorer() {
           <div className="container mx-auto px-4 py-4 flex justify-between items-center">
             <h1 className="text-4xl font-bold bg-gradient-to-r from-cyan-400 to-teal-400 bg-clip-text text-transparent">
               {" "}
-              Easy Recipe{" "}
+              Gorumet Explorer {" "}
             </h1>
             <div className="flex items-center space-x-4">
               <button
